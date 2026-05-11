@@ -1,2 +1,1 @@
 # Adapter-PasarelaPago
-# Adapter-PasarelaPago
